@@ -5,4 +5,4 @@ This is a script developed by Rocky Rhodes and Jennie Qu-Lee for downloading sea
 
 Some things to note: 
 - You will need to use dates for which there is FULL data in Google Trends (partial data does not seem to pull using this script). 
-- Keep your list of keywords to a minimum (< 1,000 keywords at a time)
+- Keep your list of keywords to a minimum (< 1,000 keywords per day). 
